@@ -22,7 +22,7 @@ Simply execute:
 ```
 python CNN_TB_Example.py
 ``` 
-To train the CNN and get logs saved to mnist_TB_logs folder.
+to train the CNN and get logs saved to mnist_TB_logs folder.
 To view logs simply run:
 ```
 tensorboard --logdir=mnist_TB_logs
