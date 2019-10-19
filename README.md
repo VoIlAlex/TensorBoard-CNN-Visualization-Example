@@ -35,6 +35,14 @@ Note: In Tensorflow 1.5 it is a known issue of TensorBoard not launching properl
 python -m tensorboard.main --logdir=mnist_TB_logs
 ```
 
+### Installation and running (with bash)
+
+To install all the dependencies and execute all supposed 
+routines run the following:
+```
+sh install_and_run.sh
+```
+
 ## Built With
 
 * [TensorFlow](https://www.tensorflow.org/) - Framework version 1.2.1 used
